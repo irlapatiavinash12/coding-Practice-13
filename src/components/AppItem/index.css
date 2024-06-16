@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.list-styling {
+  list-style-type: none;
+  height: 16vh;
+  width: 18vh;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+.app-image-styling {
+  height: 40px;
+  width: 40px;
+}
+
+.app-name-styling {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  text-align: center;
+  font-size: 20px;
+}

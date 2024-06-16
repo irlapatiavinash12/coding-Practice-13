@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.list-item-styling {
+  list-style-type: none;
+}
+
+.button-styling {
+  color: #7b8794;
+  height: 40px;
+  width: 10vh;
+  font-family: 'Roboto';
+  font-size: 20px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px #7b8794 solid;
+}
+
+.is-active-styling {
+  color: #2563eb;
+  border-bottom: 2px #2563eb solid;
+}
